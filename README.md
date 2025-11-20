@@ -5,6 +5,7 @@
 The purpose of this repository/notebook is to create a false color image of both the Eaton and Palisades Fires in the Los Angeles area using remote sensing data and identify the resulting fire scar.
 
 Content:
+
 <img width="251" height="172" alt="Screenshot 2025-11-20 at 1 48 55 PM" src="https://github.com/user-attachments/assets/b282c04a-d0af-40d2-a220-438d97129ec9" />
 
 Data Access: 
